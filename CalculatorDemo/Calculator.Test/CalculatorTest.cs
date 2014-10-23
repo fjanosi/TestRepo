@@ -11,13 +11,15 @@ namespace Calculator.Test
         [TestMethod]
         public void Add_Success()
         {
+            TestContext.WriteLine("Test start");
+            
             int a = 5;
             int b = 10;
             int result = Calculator.Add(a, b);
 
             Assert.AreEqual(a + b, result);
 
-            TestContext.WriteLine("Test run successfully");
+            TestContext.WriteLine("Test run successfully.");
 
         }
     }
