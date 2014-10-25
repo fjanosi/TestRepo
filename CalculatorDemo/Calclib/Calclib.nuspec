@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Calclib</id>
+    <version>$version$</version>
+    <title>Calclib</title>
+    <authors>Ferenc Janosi</authors>
+    <owners>ferenc Janosi</owners>
+    <licenseUrl>https://github.com/fjanosi/TestRepo/blob/dev/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/fjanosi/TestRepo/tree/dev/CalculatorDemo</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Basic calculator library</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Add, Subtract, Division</tags>
+  </metadata>
+</package>
